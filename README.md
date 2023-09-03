@@ -6,8 +6,11 @@ Machine Learning Self Learner</a></h1>
   
 
 - <b>IT </b>
-   - Google Technical Support Fundamentals [https://imgur.com/eK1mDkD](https://imgur.com/xBJGe6D)
-          
+  - [Google Technical Support Fundamentals](https://imgur.com/bdiECEg)
+
+- <b>Medical </b>
+  - [Post Master's Family Nurse Practitioner Certification](https://imgur.com/YhRt6Kf)
+  - [FNP-C Board Certification AANP](https://imgur.com/zgHJTA2)
 
 <h2>Cybersecurity Projects:</h2>
 
