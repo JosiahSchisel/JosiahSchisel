@@ -10,8 +10,8 @@ Machine Learning Self Learner</a></h1>
           
 
 <h2>Cybersecurity Projects:</h2>
-<b>Setting Netgear Router On/Off times</b> https://github.com/JosiahSchisel/Setting-Netgear-router-time-limits
-    
+
+- [Setting up a Netgear Router ON/OFF Times to Keep Kids From Sneaking Internet After Bedtime](https://github.com/JosiahSchisel/Setting-Netgear-router-time-limits)
 
 
 <h2>Machine Learning Projects:</h2>
