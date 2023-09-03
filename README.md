@@ -6,7 +6,7 @@ Machine Learning Self Learner</a></h1>
   
 
 - <b>IT </b>
-   - Google Technical Support Fundamentals https://www.coursera.org/accomplishments
+   - Google Technical Support Fundamentals 
           
 
 <h2>Cybersecurity Projects:</h2>
