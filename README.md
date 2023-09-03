@@ -2,7 +2,7 @@
 Cybersecurity Self Learner</a>, 
 Machine Learning Self Learner</a></h1>
 
-<h2>Certifications</h2>
+<h2>Certifications:</h2>
   
 
 - <b>IT </b>
