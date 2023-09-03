@@ -6,12 +6,12 @@ Machine Learning Self Learner</a></h1>
   
 
 - <b>IT </b>
-  - Google Technical Support Fundamentals https://www.coursera.org/accomplishments
+   - Google Technical Support Fundamentals https://www.coursera.org/accomplishments
+          
 
 <h2>Cybersecurity Projects:</h2>
-
-- <b>Template Title </b>
-  - [Title of Project](URL link)
+<b>Setting Netgear Router On/Off times</b> https://github.com/JosiahSchisel/Setting-Netgear-router-time-limits
+    
 
 
 <h2>Machine Learning Projects:</h2>
