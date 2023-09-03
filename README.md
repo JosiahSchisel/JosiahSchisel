@@ -6,7 +6,7 @@ Machine Learning Self Learner</a></h1>
   
 
 - <b>IT </b>
-   - Google Technical Support Fundamentals https://imgur.com/eK1mDkD
+   - Google Technical Support Fundamentals [https://imgur.com/eK1mDkD](https://imgur.com/xBJGe6D)
           
 
 <h2>Cybersecurity Projects:</h2>
