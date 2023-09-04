@@ -2,6 +2,10 @@
 Cybersecurity Self Learner</a>, 
 Machine Learning Self Learner</a></h1>
 
+I have a deep passion for the fields of information security and machine learning, as they enable me to channel my enthusiasm for problem-solving into creating solutions that can significantly enhance people's lives. My core values revolve around ethics and honesty, and I'm driven by a strong desire to safeguard individuals' sensitive information from potential risks and threats.
+My diverse background, encompassing both medicine and construction, has honed my skills as a problem solver. This background has uniquely prepared me for the challenges of the cybersecurity field, which, at its core, involves identifying and mitigating data-related issues while thwarting malicious threat actors.
+
+
 <h2>Certifications:</h2>
   
 
