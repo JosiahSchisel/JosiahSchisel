@@ -18,7 +18,7 @@ My diverse background, encompassing both medicine and construction, has honed my
 
 <h2>Cybersecurity Projects:</h2>
 
-- [Setting up a Netgear Router ON/OFF Times to Keep Kids From Sneaking Internet After Bedtime](https://github.com/JosiahSchisel/Setting-Netgear-router-time-limits)
+- [Setting up OpenDNS to block bad websites on home network](https://github.com/JosiahSchisel/Setting-Netgear-router-time-limits)
 
 
 <h2>Machine Learning Projects:</h2>
