@@ -20,7 +20,7 @@ My diverse background, encompassing both medicine and construction, has honed my
 
 - [Setting up OpenDNS to block bad websites on home network](https://github.com/JosiahSchisel/Setting-Netgear-router-time-limits)
 - [Steganography Excercise](https://github.com/JosiahSchisel/Steganography-Excercise)
-
+- [Google Security Certificate - Practice Security Audit of Fictitious Company ](https://github.com/JosiahSchisel/Steganography-Excercise)
 
 <h2>Machine Learning Projects:</h2>
 
